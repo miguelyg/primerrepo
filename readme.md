@@ -44,6 +44,18 @@
     git branch -M master
     git push -u origin master
 
+
+    git clone https://github.com/miguelyg/primerrepo.git 
+    
+    lo descarga con el link de github
+
+    git clone https://github.com/miguelyg/primerrepo.git 02semanagit
+
+    se le puede poner 02semanagit
+
+    git pull origin dummy
+    al crear un branch local y sincronizarlo con lo que esta en la nube
+
     
     AMBIENTE DESARROLLO (dev)
     AMBIENTE CALIDAD (qa)
