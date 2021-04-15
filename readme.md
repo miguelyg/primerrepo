@@ -40,6 +40,9 @@
     git log
     git log --oneline -- graph
 
+    git remote add https://github.com/miguelyg/primerrepo.git
+    git branch -M master
+    git push -u origin master
 
     
     AMBIENTE DESARROLLO (dev)
